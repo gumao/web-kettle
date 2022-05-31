@@ -1,6 +1,15 @@
 软件说明
 
 ### ** [点击跳转使用手册->演示版本](http://49.232.185.81:8080/web-etl-docs) **
+> 任务管理
+![任务管理](https://raw.githubusercontent.com/webKettle/web-kettle/main/%E6%88%AA%E5%9B%BE/%E8%AE%BE%E8%AE%A1%E5%99%A8-%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86.png)
+> 设计器
+![任务管理](https://raw.githubusercontent.com/webKettle/web-kettle/main/%E6%88%AA%E5%9B%BE/%E8%AE%BE%E8%AE%A1%E5%99%A8%E6%96%B0%E5%8A%9F%E8%83%BD.jpg)
+![任务管理](https://raw.githubusercontent.com/webKettle/web-kettle/main/%E6%88%AA%E5%9B%BE/%E8%AE%BE%E8%AE%A1%E5%99%A8-%E8%BD%AC%E6%8D%A2.png)
+
+![任务管理](https://raw.githubusercontent.com/webKettle/web-kettle/main/%E6%88%AA%E5%9B%BE/%E8%AE%BE%E8%AE%A1%E5%99%A8-%E8%BD%AC%E6%8D%A2-%E7%BB%84%E4%BB%B6%E5%8F%B3%E9%94%AE%E5%8A%9F%E8%83%BD.png)
+![任务管理](https://raw.githubusercontent.com/webKettle/web-kettle/main/%E6%88%AA%E5%9B%BE/job%E6%88%AA%E5%9B%BE.png)
+
 1. 本系统基于kettle 9 引擎改造为web-kettle 目前的最新版本在之前的基础上基于客户的需求做了很多功能优化，生产环境比较稳定。
 
 2. 目前已经做了输入、输出、转换、应用、流程、脚本、查询等150多个转换组件以及工作50多个组件，可按需根据业务定制组件
